@@ -2,12 +2,12 @@
 layout: cv
 title: Antoine de Choudens's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Antoine de Choudens
+Développeur en informatique
 
 <div id="webaddress">
 <a href="a.dechoudens@gmail.com">a.dechoudens@gmail.com</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a>test</a>
 </div>
 
 
@@ -15,72 +15,59 @@ Physicist, Mathematician, Cambridge professor.
 
 Standing on the shoulders of giants
 
-### Specialized in
+### Spécialisations
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+Développement Java, Backend, Intégration continue
 
 
-### Research interests
+### Compétences
+__Languages de programmation__
+- Java, C++, Python, Javascript, HTML/CSS, PL/SQL
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+__Intégration continue__
+- Git, Maven, Jenkins, SonarQube, NexusOSS
 
+__Framework/Library__
+- Spring, React JS, Android, Vaadin
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2007-2010`
+__Collège de Saussure__
+- Maturité Gymnasiale
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+`2013-2014`
+__Ecole Supérieur d'Informatique de Gestion__
+- Passerelle
 
-- Sizar
+`2014-2018`
+__Haute Ecole de Gestion__
+- Bachelor of Science HES-SO en Informatique de gestion
 
-`1667 - death`
-__Trinity College, Cambridge__
+## Experience
 
-- Fellow
+`2016-2017`
+__Projet Séléné, Waypoint Capital__
+- Projet de recherche et configuration d’un ERP pour le secteur RH de l’entreprise.
+- Gestion Agile du projet. 
+- Collecte des spécifications et des besoins auprès des utilisateurs
+- Analyse du marché et entretiens avec les entreprises intéressées fournissant un ERP.
 
+`2018`
+__Mission Academic Work, SITA ONAIR__
+- Développement de macros Excel/VBA de filtrage de données.
 
+`2018-2019`
+__Consultant en développement Android, DSI des Hôpitaux Universitaires de Genève (HUG)__
+- Migration d’une application C# vers Android.
+- Développement sur Android Studio (Gradle)
+- Création de channel EAI pour communiquer avec le backend. (Mirth)
+- Intégration continue depuis l’environnement de dev jusqu’aux appareils mobiles : Git -> Jenkins -> SonarQube -> Intune
+- Organisation de tests sur le terrain avec des utilisateurs finaux.
+- Collaboration avec l’équipe de la DSI pour intégrer l’application à leur architecture SI.
 
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
+`2019-présent`
+__Développeur 
 
 
 
