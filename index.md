@@ -33,6 +33,9 @@ __Framework/Library__
 __Software/Services__
 - IntelliJ, Gitlab, Monday, OTRS, Teams, RoyalTS
 
+__Langues parlées/écrites__
+- Français et anglais (B2)
+
 ## Education
 `2014-2018`
 __HES-SO - Genève__
