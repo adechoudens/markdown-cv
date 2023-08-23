@@ -80,7 +80,7 @@ __Projet Séléné, Waypoint Capital__
 - Collecte des spécifications et des besoins auprès des utilisateurs
 - Analyse du marché et entretiens avec les entreprises intéressées fournissant un ERP.
 
-  `2010-2011`
+`2010-2011`
 __Service Civil, Assistant maître atelier à Aigues-Vertes__
 - Gestion et responsabitlié d'une équipe de personnes en situation de handicap dans le secteur agro-alimentaire du village d'Aigues-Vertes
 
