@@ -50,7 +50,7 @@ __Collège de Saussure__
 
 
 ## Expériences
-`2019-présent`
+`Dès 2019`
 __Développeur Java pour un LIS (Laboratory information system), Chez Lysoft SA__
 - Responsable de l'environnement de développement du logiciel
 - Support client
