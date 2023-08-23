@@ -11,7 +11,7 @@ Informaticien de gestion
 </div>
 
 ### Informations
-- Avenue du Bois de la Chapelle 65
+- Avenue du Bois de la Chapelle 65, 1213 Onex
 - Nationalité: Suisse
 - Célibataire
 - Né à Genève le 27.07.1991
@@ -35,11 +35,11 @@ __Software/Services__
 
 ## Education
 `2014-2018`
-__Haute Ecole de Gestion__
+__HES-SO - Genève__
 - Bachelor of Science HES-SO en Informatique de gestion
 
 `2013-2014`
-__Ecole Supérieur d'Informatique de Gestion__
+__Ecole Supérieur d'Informatique de Gestion de Genève__
 - Passerelle
 
 `2007-2010`
@@ -51,13 +51,14 @@ __Collège de Saussure__
 
 ## Expériences
 `2019-présent`
-__Développeur Java pour un LIS (Laboratory information system)__
+__Développeur Java pour un LIS (Laboratory information system), Chez Lysoft SA__
 - Responsable de l'environnement de développement du logiciel
 - Support client
 - Amélioration du produit
 - Refactoring de processus clefs du produit
 - Créateur du processus complet d'intégration continue
 - Déploiement de nouvelles versions chez le client
+- Recherche et enseignement de nouvelles technologies
 
 `2018-2019`
 __Consultant en développement Android, DSI des Hôpitaux Universitaires de Genève (HUG)__
@@ -78,4 +79,9 @@ __Projet Séléné, Waypoint Capital__
 - Gestion Agile du projet. 
 - Collecte des spécifications et des besoins auprès des utilisateurs
 - Analyse du marché et entretiens avec les entreprises intéressées fournissant un ERP.
+
+  `2010-2011`
+__Service Civil, Assistant maître atelier à Aigues-Vertes__
+- Gestion et responsabitlié d'une équipe de personnes en situation de handicap dans le secteur agro-alimentaire du village d'Aigues-Vertes
+
 
