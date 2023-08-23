@@ -16,22 +16,25 @@ Informaticien de gestion
 - Célibataire
 - Né à Genève le 27.07.1991
 
-## Spécialisations
+### Spécialisations
 
 Développement Java, Backend, Intégration continue
 
 ## Compétences
 __Languages de programmation__
-- Java, C++, Python, Javascript, HTML/CSS, PL/SQL
+- Java, C++, Python, JavaScript/TypeScript, HTML/CSS, PL/SQL, Bash
 
 __Intégration continue__
-- Git, Maven, Jenkins, SonarQube, NexusOSS
+- Git, Maven, Jenkins, SonarQube, Nexus Repository
 
 __Framework/Library__
-- Spring, React JS, Android, Vaadin
+- Spring, Spring Boot, Datanucleus, Hibernate, React JS, Android, Vaadin
+
+__Bases de données__
+- Oracle, SQLite, PostgreSQL, H2, MySQL, Redis, Neo4j
 
 __Software/Services__
-- IntelliJ, Gitlab, Monday, OTRS, Teams, RoyalTS
+- IntelliJ, Gitlab, Docker, Kubernetes, Monday, OTRS, RoyalTS
 
 __Langues parlées/écrites__
 - Français et anglais (B2)
@@ -54,14 +57,14 @@ __Collège de Saussure__
 
 ## Expériences
 `Dès 2019`
-__Développeur Java pour un LIS (Laboratory information system), Chez Lysoft SA__
+__Développeur Java pour un LIS (Laboratory information system), Lysoft SA__
 - Responsable de l'environnement de développement du logiciel
 - Support client
 - Amélioration du produit
 - Refactoring de processus clefs du produit
 - Créateur du processus complet d'intégration continue
 - Déploiement de nouvelles versions chez le client
-- Recherche et enseignement de nouvelles technologies
+- Recherche et enseignement de nouvelles technologies pour faire évoluer l'équipe
 
 `2018-2019`
 __Consultant en développement Android, DSI des Hôpitaux Universitaires de Genève (HUG)__
